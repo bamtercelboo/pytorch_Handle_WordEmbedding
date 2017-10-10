@@ -3,7 +3,6 @@ import os
 import argparse
 import torch
 import torchtext.data as data
-from loaddata import mydatasets_self_two
 from loaddata import loadingdata_Twitter
 from loaddata import loadingdata_CV
 from loaddata.handle_wordEmbedding2File import WordEmbedding2File
